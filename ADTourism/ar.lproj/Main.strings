@@ -1,0 +1,267 @@
+
+/* Class = "UIButton"; normalTitle = "Custom Inspection List"; ObjectID = "0bm-BA-CAQ"; */
+"0bm-BA-CAQ.normalTitle" = "Custom Inspection List";
+
+/* Class = "UIButton"; normalTitle = "إرسال تقرير"; ObjectID = "0d7-jV-BvK"; */
+"0d7-jV-BvK.normalTitle" = "إرسال تقرير";
+
+/* Class = "UITextField"; placeholder = "البحث"; ObjectID = "0q2-xg-rKZ"; */
+"0q2-xg-rKZ.placeholder" = "البحث";
+
+/* Class = "UILabel"; text = "بريد الالكتروني"; ObjectID = "0wI-kH-HoA"; */
+"0wI-kH-HoA.text" = "بريد الالكتروني";
+
+/* Class = "UILabel"; text = "Completion Date"; ObjectID = "2NI-qw-Gbw"; */
+"2NI-qw-Gbw.text" = "Completion Date";
+
+/* Class = "UIButton"; normalTitle = "Submit Report"; ObjectID = "2mb-Ah-q7t"; */
+"2mb-Ah-q7t.normalTitle" = "Submit Report";
+
+/* Class = "UITextField"; placeholder = "اسم الشركة"; ObjectID = "2x8-yj-ja0"; */
+"2x8-yj-ja0.placeholder" = "اسم الشركة";
+
+/* Class = "UILabel"; text = "options1"; ObjectID = "2zf-Gv-vfK"; */
+"2zf-Gv-vfK.text" = "options1";
+
+/* Class = "UILabel"; text = "العنوان"; ObjectID = "56G-7T-HLn"; */
+"56G-7T-HLn.text" = "العنوان";
+
+/* Class = "UILabel"; text = "options1"; ObjectID = "5M3-kf-vzY"; */
+"5M3-kf-vzY.text" = "options1";
+
+/* Class = "UILabel"; text = "This question is very nice Question , and very long also so This question is very nice Question , and very long also so "; ObjectID = "5Ow-Yz-2HV"; */
+"5Ow-Yz-2HV.text" = "This question is very nice Question , and very long also so This question is very nice Question , and very long also so ";
+
+/* Class = "UILabel"; text = "نوع العمل"; ObjectID = "6VR-6t-QlZ"; */
+"6VR-6t-QlZ.text" = "نوع العمل";
+
+/* Class = "UIButton"; normalTitle = "الشركة"; ObjectID = "7Kn-Ry-ZI8"; */
+"7Kn-Ry-ZI8.normalTitle" = "الشركة";
+
+/* Class = "UITextField"; placeholder = "اسم الشركة"; ObjectID = "7OB-HP-fel"; */
+"7OB-HP-fel.placeholder" = "اسم الشركة";
+
+/* Class = "UITextField"; placeholder = "اسم الشركة"; ObjectID = "7Sr-XJ-lmN"; */
+"7Sr-XJ-lmN.placeholder" = "اسم الشركة";
+
+/* Class = "UILabel"; text = "options1"; ObjectID = "8Hs-W1-SvJ"; */
+"8Hs-W1-SvJ.text" = "options1";
+
+/* Class = "UILabel"; text = "This question is very nice Question , and very long also so This question is very nice Question , and very long also so "; ObjectID = "8KV-AE-2zP"; */
+"8KV-AE-2zP.text" = "This question is very nice Question , and very long also so This question is very nice Question , and very long also so ";
+
+/* Class = "UITextField"; placeholder = "البحث"; ObjectID = "8Wh-42-4CV"; */
+"8Wh-42-4CV.placeholder" = "البحث";
+
+/* Class = "UIBarButtonItem"; title = "Active"; ObjectID = "9Bh-Sb-cs7"; */
+"9Bh-Sb-cs7.title" = "Active";
+
+/* Class = "UILabel"; text = "options1"; ObjectID = "9FR-W0-eFi"; */
+"9FR-W0-eFi.text" = "options1";
+
+/* Class = "UILabel"; text = "options1"; ObjectID = "9b5-w6-MMx"; */
+"9b5-w6-MMx.text" = "options1";
+
+/* Class = "UIButton"; normalTitle = "نوع التقرير"; ObjectID = "Av6-Ce-ZwV"; */
+"Av6-Ce-ZwV.normalTitle" = "نوع التقرير";
+
+/* Class = "UILabel"; text = "رقم الترخيص"; ObjectID = "EMb-jA-i57"; */
+"EMb-jA-i57.text" = "رقم الترخيص";
+
+/* Class = "UIButton"; normalTitle = "تفتيش"; ObjectID = "FaB-g5-wOA"; */
+"FaB-g5-wOA.normalTitle" = "تفتيش";
+
+/* Class = "UIButton"; normalTitle = "اوصلني"; ObjectID = "FcU-bw-PCM"; */
+"FcU-bw-PCM.normalTitle" = "اوصلني";
+
+/* Class = "UILabel"; text = "مفتش تسجيل الدخول"; ObjectID = "Feb-kB-9cI"; */
+"Feb-kB-9cI.text" = "مفتش تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Task Name"; ObjectID = "HV1-Pv-gar"; */
+"HV1-Pv-gar.text" = "Task Name";
+
+/* Class = "UILabel"; text = "اسم الشركة"; ObjectID = "Hkh-ss-vef"; */
+"Hkh-ss-vef.text" = "اسم الشركة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IJk-3P-PTg"; */
+"IJk-3P-PTg.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "اسم الشركة"; ObjectID = "JKP-9m-cIp"; */
+"JKP-9m-cIp.placeholder" = "اسم الشركة";
+
+/* Class = "UILabel"; text = "options1"; ObjectID = "KB1-9u-kdJ"; */
+"KB1-9u-kdJ.text" = "options1";
+
+/* Class = "UILabel"; text = "options1"; ObjectID = "KHV-M2-62a"; */
+"KHV-M2-62a.text" = "options1";
+
+/* Class = "UITextField"; placeholder = "اسم الشركة"; ObjectID = "Kdo-hE-AaW"; */
+"Kdo-hE-AaW.placeholder" = "اسم الشركة";
+
+/* Class = "UIButton"; normalTitle = "تسجيل الدخول"; ObjectID = "LJE-KG-14D"; */
+"LJE-KG-14D.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "LWW-3z-tQT"; */
+"LWW-3z-tQT.normalTitle" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "اسم الشركة"; ObjectID = "Lwd-9F-GG3"; */
+"Lwd-9F-GG3.placeholder" = "اسم الشركة";
+
+/* Class = "UILabel"; text = "تصنيف الشركة"; ObjectID = "MFm-fY-2di"; */
+"MFm-fY-2di.text" = "تصنيف الشركة";
+
+/* Class = "UIButton"; normalTitle = "Save Detail"; ObjectID = "NXr-vH-XsX"; */
+"NXr-vH-XsX.normalTitle" = "Save Detail";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "NYJ-sE-ldg"; */
+"NYJ-sE-ldg.normalTitle" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "اسم الشركة"; ObjectID = "P03-fB-B6c"; */
+"P03-fB-B6c.placeholder" = "اسم الشركة";
+
+/* Class = "UIButton"; normalTitle = "اضافة شركة جديدة"; ObjectID = "PgZ-Nm-BEe"; */
+"PgZ-Nm-BEe.normalTitle" = "اضافة شركة جديدة";
+
+/* Class = "UILabel"; text = "This question is very nice Question , and very long also so This question is very nice Question , and very long also so "; ObjectID = "Q6U-K6-xvd"; */
+"Q6U-K6-xvd.text" = "This question is very nice Question , and very long also so This question is very nice Question , and very long also so ";
+
+/* Class = "UIButton"; normalTitle = "تقارير"; ObjectID = "RgB-ed-EVH"; */
+"RgB-ed-EVH.normalTitle" = "تقارير";
+
+/* Class = "UILabel"; text = "options1"; ObjectID = "RtN-at-Lbc"; */
+"RtN-at-Lbc.text" = "options1";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "TgH-Rw-LXy"; */
+"TgH-Rw-LXy.title" = "Close";
+
+/* Class = "UILabel"; text = "options1"; ObjectID = "TlT-Cg-rFg"; */
+"TlT-Cg-rFg.text" = "options1";
+
+/* Class = "UILabel"; text = "options1"; ObjectID = "UmH-tj-iAd"; */
+"UmH-tj-iAd.text" = "options1";
+
+/* Class = "UIButton"; normalTitle = "الشركة الفئة"; ObjectID = "VL8-nI-zc6"; */
+"VL8-nI-zc6.normalTitle" = "الشركة الفئة";
+
+/* Class = "UILabel"; text = "Select Option"; ObjectID = "W9h-hv-uti"; */
+"W9h-hv-uti.text" = "Select Option";
+
+/* Class = "UILabel"; text = "الهاتف المتحرك"; ObjectID = "X7a-gn-T8m"; */
+"X7a-gn-T8m.text" = "الهاتف المتحرك";
+
+/* Class = "UILabel"; text = "Task No"; ObjectID = "XlC-RX-X9H"; */
+"XlC-RX-X9H.text" = "Task No";
+
+/* Class = "UITextField"; placeholder = "اسم الشركة"; ObjectID = "Yde-lm-Q3I"; */
+"Yde-lm-Q3I.placeholder" = "اسم الشركة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Z5K-Hr-Cmg"; */
+"Z5K-Hr-Cmg.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "البحث"; ObjectID = "ZQh-b1-A0M"; */
+"ZQh-b1-A0M.placeholder" = "البحث";
+
+/* Class = "UILabel"; text = "options1"; ObjectID = "a5V-wu-MQn"; */
+"a5V-wu-MQn.text" = "options1";
+
+/* Class = "UITextField"; placeholder = "البحث"; ObjectID = "aYA-wZ-NNN"; */
+"aYA-wZ-NNN.placeholder" = "البحث";
+
+/* Class = "UIBarButtonItem"; title = "إرسال تقرير"; ObjectID = "bnW-6p-pIw"; */
+"bnW-6p-pIw.title" = "إرسال تقرير";
+
+/* Class = "UILabel"; text = "Violation Assigned"; ObjectID = "cQ2-WU-BVD"; */
+"cQ2-WU-BVD.text" = "Violation Assigned";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "chT-Ve-ryc"; */
+"chT-Ve-ryc.normalTitle" = "Select";
+
+/* Class = "UILabel"; text = "المهام الحالية"; ObjectID = "dr1-Xc-fiw"; */
+"dr1-Xc-fiw.text" = "المهام الحالية";
+
+/* Class = "UITextField"; placeholder = "اسم الشركة"; ObjectID = "eEU-oJ-Hq2"; */
+"eEU-oJ-Hq2.placeholder" = "اسم الشركة";
+
+/* Class = "UILabel"; text = "عدد المهمة"; ObjectID = "fOt-f0-dhw"; */
+"fOt-f0-dhw.text" = "عدد المهمة";
+
+/* Class = "UILabel"; text = "رقم الهاتف"; ObjectID = "grK-wy-lKH"; */
+"grK-wy-lKH.text" = "رقم الهاتف";
+
+/* Class = "UILabel"; text = "Your Current Location : 34.5656 , 54. 66767"; ObjectID = "hvt-TO-mEx"; */
+"hvt-TO-mEx.text" = "Your Current Location : 34.5656 , 54. 66767";
+
+/* Class = "UILabel"; text = "options1"; ObjectID = "iMn-j9-zKQ"; */
+"iMn-j9-zKQ.text" = "options1";
+
+/* Class = "UIButton"; normalTitle = "منطقة"; ObjectID = "ijb-kM-7eB"; */
+"ijb-kM-7eB.normalTitle" = "منطقة";
+
+/* Class = "UILabel"; text = "options1"; ObjectID = "jha-1g-So3"; */
+"jha-1g-So3.text" = "options1";
+
+/* Class = "UILabel"; text = "This question is very nice Question , and very long also so This question is very nice Question , and very long also so "; ObjectID = "jwg-rH-7op"; */
+"jwg-rH-7op.text" = "This question is very nice Question , and very long also so This question is very nice Question , and very long also so ";
+
+/* Class = "UILabel"; text = "options1"; ObjectID = "kUe-cq-P3e"; */
+"kUe-cq-P3e.text" = "options1";
+
+/* Class = "UIButton"; normalTitle = "Company"; ObjectID = "l5A-QS-JuW"; */
+"l5A-QS-JuW.normalTitle" = "Company";
+
+/* Class = "UITextField"; placeholder = "اسم الشركة"; ObjectID = "lK3-Bo-0HL"; */
+"lK3-Bo-0HL.placeholder" = "اسم الشركة";
+
+/* Class = "UILabel"; text = "اسم المهمة"; ObjectID = "mbt-hH-7jy"; */
+"mbt-hH-7jy.text" = "اسم المهمة";
+
+/* Class = "UIButton"; normalTitle = "View Details"; ObjectID = "myY-ra-0b0"; */
+"myY-ra-0b0.normalTitle" = "View Details";
+
+/* Class = "UITextField"; placeholder = "اسم الشركة"; ObjectID = "oOe-8H-N6q"; */
+"oOe-8H-N6q.placeholder" = "اسم الشركة";
+
+/* Class = "UITextField"; placeholder = "اسم المستخدم"; ObjectID = "ozS-UO-zwf"; */
+"ozS-UO-zwf.placeholder" = "اسم المستخدم";
+
+/* Class = "UITextField"; text = "jamali"; ObjectID = "ozS-UO-zwf"; */
+"ozS-UO-zwf.text" = "jamali";
+
+/* Class = "UILabel"; text = "تاريخ الاستحقاق"; ObjectID = "qg9-MX-tRN"; */
+"qg9-MX-tRN.text" = "تاريخ الاستحقاق";
+
+/* Class = "UITextField"; placeholder = "البحث"; ObjectID = "rSP-Pa-2dA"; */
+"rSP-Pa-2dA.placeholder" = "البحث";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "ri1-KX-Wes"; */
+"ri1-KX-Wes.title" = "Close";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "sN1-il-knZ"; */
+"sN1-il-knZ.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "un2-SV-fvq"; */
+"un2-SV-fvq.normalTitle" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "كلمة المرور"; ObjectID = "vZ5-bt-BbM"; */
+"vZ5-bt-BbM.placeholder" = "كلمة المرور";
+
+/* Class = "UITextField"; text = "jamali123"; ObjectID = "vZ5-bt-BbM"; */
+"vZ5-bt-BbM.text" = "jamali123";
+
+/* Class = "UIButton"; normalTitle = "اضافة شركة جديدة"; ObjectID = "wPQ-8q-MNI"; */
+"wPQ-8q-MNI.normalTitle" = "اضافة شركة جديدة";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "xVh-Pq-TCv"; */
+"xVh-Pq-TCv.title" = "Close";
+
+/* Class = "UITextField"; placeholder = "اسم الشركة"; ObjectID = "xu4-t9-1OM"; */
+"xu4-t9-1OM.placeholder" = "اسم الشركة";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "yAY-Zr-8I8"; */
+"yAY-Zr-8I8.normalTitle" = "Start";
+
+/* Class = "UITextField"; placeholder = "اسم الشركة"; ObjectID = "ywd-Fe-p6o"; */
+"ywd-Fe-p6o.placeholder" = "اسم الشركة";
+
+/* Class = "UIButton"; normalTitle = "حفظ البيانات"; ObjectID = "zrc-Uv-PzR"; */
+"zrc-Uv-PzR.normalTitle" = "حفظ البيانات";

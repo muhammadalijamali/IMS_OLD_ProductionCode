@@ -1,0 +1,502 @@
+/* 
+  Localizable.strings
+  ADTourism
+
+  Created by Administrator on 10/24/15.
+  Copyright (c) 2015 Muhammad Ali. All rights reserved.
+*/
+
+/*
+"general.checkinternet" = "Please check internet";
+"general.error" = "Error!";
+"general.yes" = "Yes";
+"general.no" = "No";
+
+
+"login.i_loginmessage" = "مفتش تسجيل الدخول";
+"login.loginbtn" =  "تسجيل الدخول";
+"login.username" = "اسم المستخدم";
+"login.password" = "كلمة المرور";
+"login.checkusername" = "Please check username and password";
+
+"option.inspection"= "تفتيش";
+"option.history" = "المهام القديمة";
+"tasks.number" = "عدد المهمة";
+"tasks.name" = "اسم المهمة";
+//"tasks.name" = "اسم المهمة";
+"tasks.type" = "Task Type";
+"tasks.priority" = "Priority";
+
+
+"tasks.name" = "فئة المهمة";
+
+"tasks.company" = "الشركة";
+"tasks.status" = "نوع العمل";
+"tasks.duedate" = "تاريخ الاستحقاق";
+"tasks.addnewcompany" = "اضافة شركة جديدة";
+"tasks.makemeactive" = "غير فعال";
+"tasks.notes" = "Notes";
+
+"tasks.makemeinactive" = "فعال";
+"tasks.starttask" = "بدء التفتيش";
+"tasks.inactiveMessage" = "Please make your self active before start";
+"tasks.onmyway" = "On Way";
+"tasks.notasksfoundpleasecontactsupervisor" = "No Tasks found , please contact Supervisor";
+
+"tasks.acquiringlocation" = "Aquiring Locaton";
+"tasks.apptryingtorecordyourlocationpleasewait!" = "App trying to record your location , please wait!";
+"tasks.createinspection" = "Create Inspection";
+"tasks.waitingforcoinspection" = "Waiting for co-inspection";
+"tasks.coinspection" = "Co-Inspection";
+"tasks.cancelonway" = "Cancel on way";
+"tasks.You are already on the way, You can not create new inspection " = "You are already on the way, You can not create new inspection ";
+
+
+
+"tasks.search" = "البحث";
+"tasks.startdate" = "تاريخ البدء";
+"tasks.enddate" = "تاريخ الانتهاء";
+"tasks.welcome" = "مرحبا";
+"tasks.youareinactive" = "أنت غير فعال";
+"tasks.currenttasks" = "المهام الحالية";
+
+"history.reporttype" = "نوع التقرير";
+"history.viewdetails" = "عرض التفاصيل";
+
+"company.area" = "منطقة";
+"company.companyname" = "اسم الشركة";
+"company.licenseno" = "رقم الترخيص";
+"company.address" = "العنوان" ;
+"company.category" = "تصنيف الشركة";
+"company.mobileno" = "رقم الهاتف";
+"company.landline" = "الهاتف المتحرك";
+"company.Email" = "البريد الإلكتروني";
+"company.save" = "حفظ البيانات";
+"company.driving" = "اوصلني";
+"company.namear" = "اسم الشركة ( العربية)";
+"company.issueDate" = "تاريخ الإصدار";
+"company.expirtydate" = "تاريخ الانتهاء";
+"company.companydetail" = "Company Detail";
+
+
+
+"options.inactivetitle" = "Please select reason";
+"questions.timespent" = "Time Spent";
+"questions.selectoption" = "حدد الخيار";
+"questions.cancel" = "إلغاء";
+"questions.unfinish" = "Do you want to make this task unfinished?";
+"questions.companydetail" = "Company Detail";
+
+
+
+"finalise.name" = "الإ سم";
+"finalise.mobilenumber" = "رقم الهاتف المتحرك";
+"finalise.email" = "البريد الإلكتروني";
+"finalise.notes" = "الملاحظات";
+"finalise.inspectorssignature" = "التوقيع المفتش";
+"finalise.siteManagerssignature" = "التوقيع المدير";
+"finalise.finalise" = "وضع اللمسات الأخيرة التفتيش";
+"finalise.contactdetails" = "PRO/Manager Contact Details";
+"finalise.submit" = "إرسال";
+"finalise.finalise" = "Finalize";
+
+"finalise.PleaeCaptureManagerSignature" =  "Pleae capture manager signature";
+"finalise.Signature" = "Signature";
+"finalise.PleaecaptureInspectorsignature" = "Pleae capture Inspector signature";
+"finalise.DoYouWantToSubmitInspection" = "Do you want to submit inspection?";
+"finalise.SubmitInspection" = "Submit Inspection";
+"finalise.InspectionSubmittedSuccessfully" = "Inspection Submitted Successfully";
+"finalise.inspection" = "Inspection";
+"finalise.violations" = "Violations";
+"finalise.warnings" = "Warnings";
+"finalise.inspectionSummary" = "Inspection Summary";
+"finalise.PleaseenterPRO/Managerdetailsproperly" = "Please enter PRO/Manager details properly";
+
+"searchcompany.searchbycompanyname" = "Search by company name";
+"searchcompany.searchbylicenseno" = "Search by license no.";
+"searchcompany.clear" = "Clear";
+"searchcompany.licenseno" = "License No.";
+"searchcompany.addinspection" = "Add Inspection" ;
+"searchcompany.emptymessage" = "No Data available , Please check provided info" ;
+"searchcompany.pleasecheckinternetconnection" = "Please check internet connection";
+"searchcompany.pleaseenterestablishmentnameinsteadofnumber" = "Please enter establishment name instead of number";
+"searchcompany.establishmentnamefield" = "Establishment Name Field";
+"searchcompany.taptopadd" = "Tap to add new unlicensed establishment";
+
+
+
+"addunlicesne.AddUnlicensedEstablishment" = "Add unlicensed Establishment";
+"addunlicense.AddEstablishmenttoinspect" = "Add Establishment to inspect";
+"addunlicense.Addestablishmentname" = "Add establishment name";
+"addunlicense.Addestablishmentnameinarabic" = "Add establishment name in arabic";
+"addunlicense.Addestablishmentaddress" = "Add establishment address";
+"addunlicense.Selectestablishmentcategory" = "Select establishment category";
+"addunlicense.missinginfo" = "Missing Info";
+
+ */
+
+
+"general.checkinternet" = "يرجى التحقق من تواجد خدمة الإنترنت";
+"general.error" = "خطأ";
+"general.yes" = "نعم";
+"general.no" = "لا";
+"general.done" = "إنهاء";
+"general.providedby" = "مقدمة من";
+"general.designation" = "ختيار لمنصب";
+"general.additionalemail" = "بريد إلكتروني إضافي";
+"general.externalnotes" = "ملاحظات خارجية";
+
+"general.norecordsfound" = "لا توجد تسجيلات";
+
+"login.i_loginmessage" = "تسجيل دخول المفتش";
+"login.loginbtn" =  "دخول";
+"login.username" = "اسم المستخدم";
+"login.password" = "كلمة المرور";
+"login.checkusername" = "يرجى التحقق من اسم المستخدم و كلمة المرور";
+
+"option.inspection"= "مهام التفتيش";
+"option.history" = "المهام القديمة";
+"option.locationrequired" = "Location required!";
+"option.You have to authorize location from device" = "You have to authorize location from device";
+"tasks.number" = "رقم المهمة";
+"tasks.name" = "اسم المهمة";
+//"tasks.name" = "اسم المهمة";
+"tasks.type" = "نوع المهمة";
+"tasks.priority" = "الأولوية";
+
+"company.hosstatus" = "حالة رئيس القسم";
+"company.paymentstatus" = "حالة عملية الدفع";
+
+
+"tasks.name" = "اسم المهمة";
+
+"tasks.company" = "اسم الشركة";
+"tasks.status" = "حالة المهمة";
+"tasks.duedate" = "تاريخ الاستحقاق";
+"tasks.addnewcompany" = "اضافة شركة جديدة";
+"tasks.makemeactive" = "فعال";
+"tasks.notes" = "الملاحظات";
+"tasks.searcktasks" = "بحث عن مهمة...";
+"tasks.alltasks" = "كل المهام";
+
+
+"tasks.makemeinactive" = "غير فعال";
+"tasks.starttask" = "بدء التفتيش";
+"tasks.inactiveMessage" = "يرجى تغيير وضعك إلى فعال قبل البداية";
+"tasks.onmyway" = "على الطريق";
+"tasks.notasksfoundpleasecontactsupervisor" = "لا يوجد إي مهمة, يرجى الإنتصال بالمشرف";
+"tasks.submitwithoutviolations" = "مستوفي كل المعايير";
+
+
+"tasks.acquiringlocation" = "الحصول على الموقع";
+"tasks.apptryingtorecordyourlocationpleasewait!" = "التطبيق يحاول يسجيل موقعك, يرجى الانتظار!";
+"tasks.createinspection" = "تفتيش جديد";
+"tasks.waitingforcoinspection" = "انتظارمشاركة في التفتيش";
+"tasks.coinspection" = "مشاركة في التفتيش";
+"tasks.starttask" = "بداية المهمة";
+"tasks.App can not access your location , please restart app or check location settings" = "لا يتم التحصل على موقعك, يرجى إعادة تشغيل التطبيق أو التحقق من الإعدادات";
+"tasks.readytostart" = "بداية المهمة";
+"task.active" = "فعال";
+
+"tasks.low" = "أولوية منخفضة";
+"tasks.high" = "أولوية عالية";
+"tasks.medium" = "أولوية متوسطة";
+"tasks.tasklist" = "قائمة التفتيش";
+"tasks.selecturgency" = "حدد الاستعجال";
+
+
+"tasks.You are already on the way, You can not create new inspection " = "لا يمكنك إنشاء تفتيش";
+"tasks.You can only make one task 'On Way'" = "يمكنك جعل المهمة' على الطريق' فقط";
+"tasks.starttask" = "بداية المهمة";
+"tasks.You can start on task at a time" = "You can start on task at a time";
+"tasks.pleasemakesureyouarereadytostart" = "يرجى التأكد أنك مستعد لبداية المهمة";
+"tasks.search" = "البحث";
+"tasks.startdate" = "تاريخ البداية";
+"tasks.enddate" = "تاريخ النهاية";
+"tasks.welcome" = "مرحبا";
+"tasks.youareinactive" = "أنت غير فعال";
+"tasks.currenttasks" = "المهام الحالية";
+"tasks.nostarted" = "لا كتبت";
+"tasks.completed" = "منجز";
+"tasks.closetask" = "غلق المهمة";
+"tasks.dismiss" = "غلق";
+"tasks.inactiveonmyway" = "لا يمكنك تغيير وضعك إلى 'غير فعال' إن كان 'على الطريق', يرجى إلغاء الوضع الحالي أولا.";
+"tasks.cancelonmyway" = "إلغاء على الطريق";
+"tasks.addInspector" = "إضافة مفتش";
+"tasks.searchInspector" = "بحث عن مفتش...";
+"tasks.category" = "الفئة";
+"tasks.youcanstarttask" = "You can start task once you are on the location";
+"tasks.name/license" = "الاسم/رقم الترخيص";
+"tasks.address/area" = "العنوان/المنطقة";
+"tasks.address/region desc" = "تصفية المهام باستخدام العنوان أو المنطقة";
+"tasks.address/region title" = "العنوان/المنطقة";
+"tasks.doyouwanttoreleasepooltasks" = "هل أنت متأكد من التخلي على المهام؟";
+"incidentreport.reporttitle" = "اختر نوع البلاغ";
+"tasks.map" = "الخريطة";
+"tasks.filtertasksbymap" = "تصفية المهمام باستخدام الخريطة";
+"tasks.activtiycode" = "رمزانشاط";
+"tasks.activitycodedesc" = "تصفية المهمام باستخدام رمزانشاط";
+"tasks.name/licenseDesc" = "تصفية المهمام باستخدام الخريطة";
+"tasks.sortTaskList" = "ترتيب المهام";
+
+"tasks.filterbyname" = "الترتيب حسب الاسم";
+"tasks.filterbydate" = "رتب حسب التاريخ";
+"tasks.filter" = "رتب";
+
+
+
+"tasks.selectincidentreport" = "نوع تقريرالحادث";
+"pool.book" = "حجز";
+"tasks.pleaseselectinspectiontype" = "اختر فئة التفتيش";
+
+
+
+"history.reporttype" = "نوع التقرير";
+"history.viewdetails" = "عرض التفاصيل";
+"history.select" =  "اختر";
+"history.selecttype" = "اختر النوع";
+"history.selectall" = "اختر الكل";
+"history.notifications" = "الإشعارات";
+"history.inspectiondate" = "تاريخ التفتيش";
+"history.taskhistory" = "سجل التفتيشات";
+"history.addnotes" = "إضافة ملاحظات";
+"history.type" = "النوع";
+
+"finalise.validemail" = "الرجاء التأكد من صحة البريد الإلكتروني";
+
+
+"company.area" = "منطقة";
+
+"company.companyname" = "اسم الشركة";
+"company.licenseno" = "رقم الترخيص";
+"company.address" = "عنوان الشركة" ;
+"company.category" = "تصنيف الشركة";
+"company.landline" = "رقم الهاتف";
+"company.mobileno" = "رقم الجوال";
+"company.Email" = "البريد الإلكتروني";
+"company.save" = "حفظ البيانات";
+"company.driving" = "اوصلني";
+"company.namear" = "اسم الشركة ( بالعربية)";
+"company.issueDate" = "تاريخ الإصدار";
+"company.expirtydate" = "تاريخ الانتهاء";
+"company.companydetail" = "تفاصيل الشركة";
+"company.violationshistory" = "سجل المخالفات";
+"company.updatelocation" = "تحديث الموقع";
+"company.update" = "تحديث";
+
+"company.companycategory" = "فئة الشركة";
+"company.selectcategory" = "يرجى اختيار الفئة";
+"company.routenotavailable" = "الطريق غير متوفر";
+"company.loadingviolations" = "تحميل المخالفة";
+"company.activtiycodes" = "رمز الشركة";
+"company.notes" = "ملاحظات تخص الشركة";
+"company.addressnotes" = "ملاحظات تخص العنوان";
+
+
+"finalise.DoYouWantToSaveInspection" = "Do you want to save inspection?,It will be synced once internet will be available";
+
+
+"profile.profiletitle" = "الملف الشخصي";
+"profile.emailalreadyexists" = "Email already exists";
+"profile.usernamealreadyexists" = "Username already exists";
+"profile.usernameisempty" = "Username is empty";
+"profile.saveinfo" = "ارسال";
+
+
+"options.inactivetitle" = "الرجاء إختيار السبب";
+"questions.timespent" = "الوقت المنقضي";
+"questions.selectoption" = "حدد الخيار";
+"questions.cancel" = "إلغاء";
+"questions.unfinish" = "هل تريد أن تجعل هذه المهمة غير منتهية؟";
+"questions.companydetail" = "تفاصيل الشركة";
+"questions.closetask" = "إغلق المهمة";
+"question.Must select atleast one checklist item . You can choose to ‘Close’ task if you can not perform the inspection" = "يجب اجتيار عنصر على الأقل من القائمة, يمكنك إغلاق المهمة إذا لم تتمكن إجراء التفتيش";
+"questions.areyousurewanttoexit" = "هل أنت متأكد أنك تريد الخروج؟";
+
+"questions.cantsubmit" = "لا يمكن الارسال";
+"questions.back" = "رجوع";
+"questions.searchbyviolationnameorcode" = "ابحث عن اسم أو رمز المخالفة";
+
+
+
+"finalise.name" = "الاسم";
+"finalise.mobilenumber" = "رقم الهاتف المتحرك";
+"finalise.email" = "البريد الإلكتروني";
+"finalise.notes" = "الملاحظات";
+"finalise.inspectorssignature" = "توقيع المفتش";
+"finalise.siteManagerssignature" = "توقيع المدير";
+"finalise.finalise" = "اللمسات الأخيرة";
+//"finalise.contactdetails" = "تفاصيل المدير/ضابط العلاقات العامة";
+"finalise.contactdetails" = "تفاصيل الاتصال";
+
+
+
+
+//"finalise.submit" = "وضع اللمسات الأخيرة";
+"finalise.submit" = "إرسال";
+
+"finalise.pro" = "ضابط علاقات عامة";
+"finalise.owner" = "مالك";
+"finalise.manager" = "مدير";
+"finalise.secretary" = "أمين";
+"finalise.others" = "آخر";
+
+
+
+"finalise.PleaeCaptureManagerSignature" =  "توقيع المدير";
+"finalise.Signature" = "التوقيع";
+"finalise.PleaecaptureInspectorsignature" = "توقيع المفتش";
+"finalise.DoYouWantToSubmitInspection" = "هل تريد أن تقدم التفتيش؟";
+"finalise.SubmitInspection" = "تقديم التفتيش";
+"finalise.InspectionSubmittedSuccessfully" = "قدم التفتيش بنجاح";
+"finalise.inspection" = "التفتيش";
+"finalise.violations" = "مخالفات";
+"finalise.inspectionSummary" = "ملخص التفتيش";
+//"finalise.PleaseenterPRO/Managerdetailsproperly" = "يرجى إدخال تفاصيل المدير/ضابط العلاقات العامة";
+"finalise.PleaseenterPRO/Managerdetailsproperly" = "يرجى إدخال تفاصيل الاتصال";
+"finalise.adddesignation/Namewhoprovidedthecontactdetails" = "الرجاء اظافة اسم و وظيفة الشخص الذي قدّم تفاصيل الاتصال";
+
+"settings.pleasefillallfields" = "يرجى تعبئة جميع الحقول";
+"settings.bothfieldsareequal" = "يجب أن يكون كلا الحقلين المساواة";
+"settings.passwordincorrect" = "كلمة المرور غير صحيحة";
+"settings.passwordupdatedsuccessfully" = "كلمة المرور بنجاح تحديث";
+
+
+"searchcompany.searchbycompanyname" = "البحث عن طريق اسم الشركة";
+"searchcompany.searchbylicenseno" = "البحث عن طريق رقم الرخصة";
+"searchcompany.clear" = "مسح";
+"searchcompany.licenseno" = "رقم الرخصة";
+"searchcompany.addinspection" = "إضافة تفتيش" ;
+"searchcompany.emptymessage" = "البيانات غير موجودة, يرجى التحقق من المعلومات المقدمة" ;
+"searchcompany.pleasecheckinternetconnection" = "يرجى التحقق من خدمة الإنترنت";
+"searchcompany.pleaseenterestablishmentnameinsteadofnumber" = "يرجى إدخال اسم المؤسسة بدلا من الرقم";
+"searchcompany.establishmentnamefield" = "مكان اسم المؤسسة";
+"searchcompany.taptopadd" = "انقر هنا لإضافة مؤسسة غير مرخصة";
+"searchcompany.permission" = "You don't have permissions to perform inspection for";
+"searchcompany.askforpermission" = "Ask For Permission";
+"searchcompany.individual" = "Individual";
+"searchcompany.company" = "Company";
+"searchcompany.drivernamear" = "Driver's Name(Arabic)";
+"searchcompany.drivername" = "Driver's Name(English)";
+"searchcompany.emiratesidno" = "Emirates Id No.";
+"searchcompany.passportno" = "Passport No.";
+"searchcompany.rtalicenseno" = "رخصة هيئة الطرق والمواصلات";
+"searchcompany.email" = "Email";
+"searchcompany.mobileno" = "Mobile No.";
+"searchcompany.addindividualtoinspect" = "إضافة فرد جديد للتفتيش";
+"searchcompany.ind_category" = " اختر تصنيف";
+"searchcompany.individual" = "الفرد";
+"searchcompany.searchall" = "بحث جميع الشركات";
+
+"searchcompany.searchDTCM" = "بحث شركات السياحة";
+
+
+
+"searchcompany.company" = "الشركة";
+"company.addSubvenue" = "Select Sub Venue";
+"company.searchSubVenue" = "Search Sub Venue";
+"company.subvenueSearch" = "Sub Venue Search";
+
+"company.searchSubVenue" = "Search Sub Venue";
+"company.addsubvenue" = "Add Sub Venue";
+
+
+
+"searchcompany.company" = "الشركة";
+"settings.oldpassword" = "كلمة المرور الحالية";
+"settings.newpassword" = "كلمة المرور الجديدة";
+"settings.reenterpassword" = " إعادة كتابة كلمة المرور الجديدة";
+"settings.savechanges" = "حفظ التغيرات";
+"settings.title" = "الإعدادات";
+
+"settings.username" = "اسم المستخدم";
+"settings.password" = "كلمة المرور";
+"settings.language" = "اللغة";
+"settings.inactiveduration" = "مدة التوقف";
+"settings.applicationno" = "حول التطبيق";
+"settings.logout" = "تسجيل الخروج";
+"unlicense.selectcompanycategory" = " اختر تصنيف الشركة";
+
+"reports.Assigned Tasks" = "المهام الموكلة";
+"reports.activeinactive" = "أوقات الفعالية";
+"reports.visits" = "الزيارات";
+"reports.Average Time" = "متوسط الوقت";
+
+
+
+
+"addunlicesne.AddUnlicensedEstablishment" = "إضافة مؤسسة غير مرخصة";
+"addunlicense.AddEstablishmenttoinspect" = "إضافة مؤسسة للتفتيش";
+"addunlicense.Addestablishmentname" = "إضافة اسم المؤسسة";
+"addunlicense.Addestablishmentnameinarabic" = "إضافة اسم المؤسسة بااللغة العربية";
+"addunlicense.Addestablishmentaddress" = "إضافة عنوان المؤسسة";
+"addunlicense.Selectestablishmentcategory" = "اختر فئة المؤسسة";
+"addunlicense.missinginfo" = "معلومات غير موجودة";
+"addunlicense.Add Establishment to Inspect" = "إضافة مؤسسة للتفتيش";
+"addunlicense.unexpectederroroccured" = "Unexpected error occured!";
+"addindividual.drivernamear" = "اسم السائق(العربية)";
+"addindividual.drivernameen" = "اسم السائق (الإنجليزية)";
+"addindividual.emiratesid" = "رقم هوية الإمارات";
+"addindividual.passportno" = "رقم جواز السفر";
+"addindividual.drivinglicense" = "رقم رخصة القيادة";
+"addIndividual.email" = "البريد الإلكتروني";
+"addIndividual.mobileno" = "رقم الهاتف";
+"addIndividual.addIndividualToInspect" = "إضافة فرد جديد للتفتيش";
+"addIndividual.lbltitle" = "إضافة فرد جديد";
+
+
+
+
+"settings.selectlangugae" = "اختراللغة";
+"settings.reason" = "الأسباب";
+"settings.deleteAll" = "حذف الكل";
+
+"profile.personaldetail" = "التفاصيل الشخصية";
+"profile.name" = "الاسم";
+"profile.jobdetail" = "تفاصيل الوظيفة";
+"profile.job" = "الوظيفة";
+"profile.employeeid" = "هوية الموظف";
+"profile.shift" = "الفترة";
+"profile.headofsection" = "تفاصيل رئيس القسم";
+
+"incidentreport.title" = "بلاغ حادثة";
+
+"reports.details" = "التفاصيل";
+"reports.timereports" = "تقارير الوقت";
+"reports.taskreports" = " تقارير المهام";
+"reports.inactive" = "غير فعال";
+"reports.averageonmyway" = "معدل مدة على الطريق";
+"reports.pending" = "المهام المعلقة";
+"reports.performed"=" المهام المنفذة";
+"reports.averagetaskduration" = "معدل مدة المهمة";
+"reports.reports" = "التقارير";
+"reports.date" = "التاريخ";
+"searchcompany.taptopaddInvidual" = "Tap to add new Individual";
+"permit.alternatenumber" = "رقم بديل";
+"permit.permitnumber" = "رقم التصريح";
+"permit.location" = "المنطقة";
+"permit.lenghtmessage" = "Length of Permit Id/Company Name/License No. should be more than 3 characters";
+"permit.datalength" = "Data Length";
+"permit.permitType" = "نوع التصريح";
+"permit.permitno" = "رقم التصريح";
+"permit.subvenue" = "الموقع الفرعي";
+"permit.driverno" = "رقم تصريح سائق";
+"permit.plateno" = "رقم المركبة";
+"permit.selectCode" = "حدد الرمز";
+"permit.Code" = "الرمز";
+"permit.permit" = "التصريح";
+"permit.expired" = "منتهية الصلاحية" ;
+
+
+"chat.selectuser" = "الرجاء اختيار مستخدم لبداية الدردشة";
+"chat.chat" = "دردشة";
+"pool.expired" = "منتهية الصلاحية";
+"task.type" = "نوع العمل";
+
+
+
+
+
+
+
+

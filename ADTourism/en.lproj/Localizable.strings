@@ -1,0 +1,379 @@
+/* 
+  Localizable.strings
+  ADTourism
+
+  Created by Administrator on 10/24/15.
+  Copyright (c) 2015 Muhammad Ali. All rights reserved.
+*/
+
+"general.checkinternet" = "Please check internet";
+"general.error" = "Error!";
+"general.yes" = "Yes";
+"general.no" = "No";
+"general.norecordsfound" = "No records found";
+"general.done" = "Done";
+"general.providedby" = "Provided By";
+"general.designation" = "Designation";
+"general.additionalemail" = "Additional Email";
+"general.externalnotes" = "External Notes";
+
+
+
+
+"login.i_loginmessage" = "Inspector Login";
+
+"login.loginbtn" =  "Login";
+
+"login.username" = "Username";
+
+"login.checkusername" = "Please check username and password";
+
+
+
+
+"login.password" = "Password";
+"option.inspection"= "Inspection";
+"option.history" = "Task History";
+
+//"option.history" = "History";
+
+"option.locationrequired" = "Location required!";
+"option.You have to authorize location from device" = "You have to authorize location from device";
+
+"tasks.number" = "Task No";
+"tasks.type" = "Task Type";
+"tasks.company" = "Company";
+"tasks.status" = "Task Status";
+"tasks.duedate" = "Due Date/Time";
+"tasks.addnewcompany" = "Add new company";
+"tasks.makemeactive" = "Make me active";
+"tasks.makemeinactive" = "Make me inactive";
+"tasks.waitingforcoinspection" = "Waiting for co-inspection";
+"tasks.notes" = "Notes";
+"tasks.priority" = "Priority";
+
+"tasks.search" = "Search";
+"tasks.startdate" = "Start Due Date";
+"tasks.enddate" = "End Due Date";
+"tasks.welcome" = "Welcome";
+"tasks.youareinactive" = "You are inactive";
+"tasks.currenttasks" = "Current tasks";
+"tasks.closetask" = "Close Task";
+"tasks.alltasks" = "All Tasks";
+
+
+"tasks.inactiveMessage" = "Please make yourself active before start";
+"tasks.onmyway" = "On My Way";
+"tasks.notasksfoundpleasecontactsupervisor" = "No Tasks found , please contact Supervisor";
+"tasks.readytostart" = "Ready to start";
+"tasks.pleasemakesureyouarereadytostart" = "Please make sure you are ready to start the task?";
+"tasks.starttask" = "Start";
+"tasks.acquiringlocation" = "Aquiring Locaton";
+"tasks.apptryingtorecordyourlocationpleasewait!" = "App trying to record your location , please wait!";
+"tasks.createinspection" = "Create Inspection";
+"tasks.coinspection" = "Co-Inspection";
+"tasks.cancelonway" = "Cancel";
+"tasks.You are already on the way, You can not create new inspection " = "You are already on the way, You can not create new inspection ";
+"tasks.You can only make one task 'On Way'" = "You can only make one task 'On My Way'";
+"tasks.starttask" = "Start Task";
+"tasks.You can start on task at a time" = "You can start on task at a time";
+"tasks.starttask" = "Start Task";
+"tasks.App can not access your location , please restart app or check location settings" = "App can not access your location , please restart app or check location settings";
+"tasks.dismiss" = "Dismiss";
+"tasks.inactiveonmyway" = "You can't set yourself inactive if you are 'On My Way',cancel 'On My Way' to set inactive";
+"tasks.cancelonmyway" = "Cancel 'On My Way'";
+"tasks.selectincidentreport" = "Incident report type";
+
+"tasks.low" = "Low";
+"tasks.medium" = "Medium";
+"tasks.high" = "High";
+"tasks.selecturgency" = "Select Urgency";
+"tasks.sortTaskList" = "Sort Task List";
+"tasks.filterbyname" = "Sort By Name";
+"tasks.filterbydate" = "Sort By Due Date";
+"tasks.filter" = "Filter";
+
+
+
+
+"tasks.nostarted" = "Not Started";
+"tasks.completed" = "Completed";
+"tasks.searcktasks" = "Search Tasks";
+"tasks.name/license" = "Name/License number";
+"tasks.name/licenseDesc" = "Filter tasks by Name/License number";
+"tasks.address/region desc" = "Filter tasks by Address/Area";
+"tasks.address/region title" = "Address/Area";
+"tasks.map" = "Map";
+"tasks.filtertasksbymap" = "Filer tasks by using Map";
+"tasks.activtiycode" = "Activity Code";
+"tasks.activitycodedesc" = "Filter tasks using activity codes";
+
+
+"profile.profiletitle" ="Profile";
+"profile.emailalreadyexists" = "Email already exists";
+"profile.usernamealreadyexists" = "Username already exists";
+"profile.usernameisempty" = "Username is empty";
+"profile.saveinfo" = "Submit";
+
+
+"history.reporttype" = "Report type";
+"history.viewdetails" = "View Details";
+"history.select" =  "Select";
+"history.selecttype" = "Select Type";
+"history.selectall" = "Select All";
+"history.notifications" = "Notifications";
+"history.inspectiondate" = "Inspection Date";
+"history.taskhistory" = "Inspection Reports";
+"history.type" = "Type";
+"history.addnotes" = "Add Notes";
+
+"company.searchSubVenue" = "Search Sub Venue";
+"company.addsubvenue" = "Add Sub Venue";
+
+"company.companyname" = "Company Name";
+"company.licenseno" = "License No.";
+"company.address" = "Address" ;
+"company.category" = "Company Category";
+"company.mobileno" = "Mobile No";
+"company.landline" = "Landline";
+"company.Email" = "Email";
+"company.save" = "Save";
+"company.driving" = "Driving Direction";
+"company.area" = "Area";
+"company.namear" = "Company Name (Arabic)";
+"company.issueDate" = "Issue Date";
+"company.expirtydate" = "Expiry Date";
+"company.violationshistory" = "Violations History";
+"company.warninghistory" = "Warnings History";
+"company.companydetail" = "Company Detail";
+"company.companycategory" = "Company Category";
+"company.selectcategory" = "Select category";
+"company.routenotavailable" = "Route not available";
+"company.loadingviolations" = "Loading Violations";
+"company.updatelocation" = "Update Location";
+"company.activtiycodes" = "Activity Codes";
+"company.notes" = "Company Notes";
+"company.addressnotes" = "Address Notes";
+"tasks.tasklist" = "Task List";
+"company.update" = "Update";
+
+"settings.selectlangugae" = "Select Language";
+"settings.reason" = "Inactive notes";
+"settings.passwordincorrect" = "Current Password Incorrect";
+"settings.passwordupdatedsuccessfully" = "Password updated successfully";
+"settings.deleteAll" = "Delete All";
+"settings.username" = "Username";
+"settings.password" = "Password";
+"settings.language" = "Language";
+"settings.inactiveduration" = "Inactive duration";
+"settings.applicationno" = "Version No";
+"settings.logout" = "Logout";
+"settings.title" = "Settings";
+"task.active" = "Active";
+"tasks.addInspector" = "Add Inspector";
+"tasks.category" = "Category";
+"tasks.doyouwanttoreleasepooltasks" = "Do you want to release pool task(s)?";
+"tasks.youcanstarttask" = "You can start task once you are on the location";
+"pool.book" = "Book";
+"tasks.pleaseselectinspectiontype" = "Please select inspection type";
+"tasks.submitwithoutviolations" = "Submit Without Violations";
+
+
+"company.hosstatus" = "HOS Status";
+"company.paymentstatus" = "Payment Status";
+"company.updatedlocation" = "Updated Location";
+
+
+"tasks.searchInspector" = "Search Inspector";
+"incidentreport.title" = "Incident Report";
+"incidentreport.reporttitle" = "Incident Report Type";
+
+
+
+
+
+"options.inactivetitle" = "Please select reason";
+"options.inactiveReason1" = "Meal Break";
+"options.inactiveReason2" = "Prayers";
+"options.inactiveReason3" = "Medical Appointment";
+"options.inactiveReason4" = "Others";
+
+"questions.timespent" = "Time Spent";
+"questions.selectoption" = "Select Option";
+"questions.cancel" = "Cancel";
+"questions.unfinish" = "Do you want to make this task unfinished?";
+"questions.companydetail" = "Company Detail";
+"questions.closetask" = "Close Task";
+"question.Must select atleast one checklist item . You can choose to ‘Close’ task if you can not perform the inspection" = "Must select atleast one checklist item. You can choose to ‘Close’ task if you can not perform the inspection";
+"questions.cantsubmit" = "Can't Submit";
+"questions.back" = "back";
+"questions.searchbyviolationnameorcode" = "Search violation name/code";
+"questions.areyousurewanttoexit" = "Are you sure you want to exit?";
+
+
+"unlicense.selectcompanycategory" = "Select Company Category";
+
+
+"finalise.name" = "Name";
+"finalise.mobilenumber" = "Mobile Number";
+"finalise.email" = "Email";
+"finalise.notes" = "Notes";
+"finalise.inspectorssignature" = "Inspector's Signature";
+"finalise.siteManagerssignature" = "Site Manager's Signature";
+"finalise.finalise" = "Finalize Inspection";
+"finalise.contactdetails" = "Contact Details";
+"finalise.submit" = "Submit";
+"finalise.PleaeCaptureManagerSignature" =  "Pleae capture manager signature";
+"finalise.Signature" = "Signature";
+"finalise.PleaecaptureInspectorsignature" = "Pleae capture Inspector signature";
+"finalise.DoYouWantToSubmitInspection" = "Do you want to submit inspection?";
+"finalise.DoYouWantToSaveInspection" = "Do you want to save inspection?,It will be synced once internet will be available";
+
+"finalise.SubmitInspection" = "Submit Inspection";
+"finalise.InspectionSubmittedSuccessfully" = "Inspection Submitted Successfully";
+"finalise.inspection" = "Inspection";
+"finalise.violations" = "Violations";
+"finalise.warnings" = "Warnings";
+"finalise.inspectionSummary" = "Inspection Summary";
+//"finalise.PleaseenterPRO/Managerdetailsproperly" = "Please enter PRO/Manager details properly";
+"finalise.PleaseenterPRO/Managerdetailsproperly" = "Please enter contact details properly";
+"finalise.adddesignation/Namewhoprovidedthecontactdetails" = "Add Designation/Name who provided the contact details";
+
+
+"finalise.finalise" = "Finalize";
+"finalise.validemail" = "Enter valid email";
+"finalise.pro" = "PRO";
+"finalise.owner" = "Owner";
+"finalise.manager" = "Manager";
+"finalise.secretary" = "Secretary";
+"finalise.others" = "Others";
+
+
+"searchcompany.searchbycompanyname" = "Company Name";
+"searchcompany.searchbylicenseno" = "License No.";
+"searchcompany.clear" = "Clear";
+"searchcompany.licenseno" = "License No.";
+"searchcompany.addinspection" = "Add Inspection" ;
+"searchcompany.emptymessage" = "No Data available , Please check provided info" ;
+"searchcompany.pleasecheckinternetconnection" = "Please check internet connection";
+"searchcompany.pleaseenterestablishmentnameinsteadofnumber" = "Please enter establishment name instead of number";
+"searchcompany.establishmentnamefield" = "Establishment Name Field";
+"searchcompany.taptopadd" = "Tap to add new unlicensed establishment";
+"searchcompany.taptopaddInvidual" = "Tap to add new Individual";
+"searchcompany.individual" = "Individual";
+"searchcompany.company" = "Company";
+"searchcompany.drivernamear" = "Driver's Name(Arabic)";
+"searchcompany.drivername" = "Driver's Name(English)";
+"searchcompany.emiratesidno" = "Emirates Id No.";
+"searchcompany.passportno" = "Passport No.";
+"searchcompany.rtalicenseno" = "RTA License No.";
+"searchcompany.email" = "Email";
+"searchcompany.mobileno" = "Mobile No.";
+"searchcompany.addindividualtoinspect" = "Add Individual to inspect";
+"searchcompany.ind_category" = "Select Category";
+"searchcompany.individual" = "Individual";
+"searchcompany.company" = "Company";
+
+"searchcompany.permission" = "You don't have permissions to perform inspection for";
+"searchcompany.askforpermission" = "Ask For Permission";
+"searchcompany.searchall" = "Search All Companies";
+
+"searchcompany.searchDTCM" = "Search Tourism Companies";
+
+
+"settings.oldpassword" = "Current Password";
+"settings.newpassword" = "New Password";
+"settings.reenterpassword" = "Re-enter Password";
+"settings.savechanges" = "Save Changes";
+"settings.pleasefillallfields" = "Fill all fields";
+"settings.bothfieldsareequal" = "Both fields should be equal";
+
+
+
+
+"addunlicesne.AddUnlicensedEstablishment" = "Add unlicensed Establishment";
+"addunlicense.AddEstablishmenttoinspect" = "Add Establishment to inspect";
+"addunlicense.Addestablishmentname" = "Add establishment name";
+"addunlicense.Addestablishmentnameinarabic" = "Add establishment name in arabic";
+"addunlicense.Addestablishmentaddress" = "Add establishment address";
+"addunlicense.Selectestablishmentcategory" = "Select establishment category";
+"addunlicense.missinginfo" = "Missing Info";
+
+"addunlicense.Add Establishment to Inspect" = "Add Establishment to Inspect";
+
+"addindividual.drivernamear" = "Driver's Name(Arabic)";
+"addindividual.drivernameen" = "Driver's Name(English)";
+"addindividual.emiratesid" = "Emirates Id";
+"addindividual.passportno" = "Passport No.";
+"addindividual.drivinglicense" = "Driving License";
+"addIndividual.email" = "Email";
+"addIndividual.mobileno" = "Mobile No.";
+"addIndividual.addIndividualToInspect" = "Add Individual to Inspect";
+"addIndividual.lbltitle" = "Add/Update Individual";
+"addunlicense.unexpectederroroccured" = "Unexpected error occured!";
+"profile.personaldetail" = "Personal Details";
+"profile.name" = "Name";
+"profile.jobdetail" = "Job Details";
+"profile.job" = "Job";
+"profile.employeeid" = "Employee Id";
+"profile.shift" = "Shift";
+"profile.headofsection" = "Head of Section";
+"reports.details" = "Details";
+
+
+"reports.timereports" = "Time Report";
+"reports.taskreports" = "Tasks Report";
+"reports.active" = "Active";
+"reports.inactive" = "Inactive";
+"reports.averageonmyway" = "Average 'On My Way' duration";
+"reports.pending" = "Pending";
+"reports.performed"="Performed";
+"reports.averagetaskduration" = "Average Task duration";
+"reports.reports" = "Reports";
+
+"reports.Assigned Tasks" = "Assigned Tasks";
+"reports.activeinactive" = "Active/InActive Hours";
+"reports.visits" = "Visits";
+"reports.Average Time" = "Average Time";
+"reports.date" = "Date";
+
+
+
+
+"permit.alternatenumber" = "Alternate Number";
+"permit.permitnumber" = "Permit Id";
+"permit.location" = "Location";
+"permit.lenghtmessage" = "Length of Permit Id/Company Name/License No. should be more than 3 characters";
+"permit.datalength" = "Data Length";
+"permit.permitType" = "Permit Type";
+"permit.permitno" = "Permit Id";
+"permit.subvenue" = "Sub Venue";
+"permit.driverno" = "Driver's License No.";
+"permit.plateno" = "Vehicle Plate No.";
+"permit.selectCode" = "Select Code";
+"permit.Code" = "Code";
+"permit.permit" = "Permit";
+"permit.expired" = "Expired";
+"individual.passportCountry" = "Passport Country";
+"individual.passportCountry" = "Passport Country";
+
+"chat.selectuser" = "Select user to start chat";
+
+"chat.chat" = "Chat";
+
+"pool.expired" = "Expired Only";
+"task.type" = "Task Type";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
